@@ -4,7 +4,7 @@ This repository contains a book publishing module included in a client applicati
 
 ## Key Features
 
-- **Android Studio Client Application:**
+- **Android Studio Client Application**
 
 ## Contribution Guidelines
 
